@@ -11,13 +11,13 @@
       <h2>Carro: <span class="yellow">R$1999</span></h2>
       <p>Carro modelo 2045, com 200km rodados.</p>
       <br />
-      <a>Comprar Carro</a>
+      <a href="">Comprar Carro</a>
     </div>
     <br />
     <div class="black">
       <h2>Bicicleta: <span class="yellow">R$199</span></h2>
       <p>Bicicleta modelo 2050, com 20km rodados.</p>
-      <a> Comprar Bicicleta</a>
+      <a href="" >Comprar Bicicleta </a>
     </div>
   </body>
 </html>

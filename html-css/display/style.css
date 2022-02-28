@@ -23,8 +23,9 @@ div {
   margin: 20px;
 }
 a{
-  
+  text-decoration: none;
   background-color: #febe01;
   color: #332200;
   padding: 10px;
+  border-radius: 4px;
 }
